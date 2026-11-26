@@ -1,0 +1,25 @@
+.info {
+display: flex;
+flex-direction: column;
+align-items: center ;
+}
+
+.strip {
+
+
+background-color: rgb(255, 139, 7);
+width: 100%;
+height: 90px;
+
+
+
+
+}
+.strip h1 {
+   color: black; 
+   width: 100%;
+   height: 90px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
